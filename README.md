@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Margieart
-- 👀 I’m interested in art and getting better with my coding skills
-- 🌱 I’m currently learning MySql
+- 👋 Hi, I’m @Margiemaps
+- 👀 I’m interested in creating and getting better with my coding skills
+- 🌱 I am currently learing Python
 - 💞️ I’m looking to collaborate on Sql and Python projects
 - 📫 How to reach me Margieart1983@gmail.com
 
